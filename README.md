@@ -21,7 +21,9 @@ The project includes detailed plots such as:
 ## 📁 Project Structure
 
 ├── notebook.ipynb # Main Jupyter Notebook with code and outputs
+
 ├── plots/ # Folder containing all generated plot images
+
 ├── README.md # Project overview and documentation
 
 
