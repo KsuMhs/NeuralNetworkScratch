@@ -20,9 +20,9 @@ The project includes detailed plots such as:
 
 ## 📁 Project Structure
 
-├── notebook.ipynb # Main Jupyter Notebook with code and outputs
+├── notebook.ipynb # Main Notebook with code and outputs
 
-├── plots/ # Folder containing all generated plot images
+├── Neural Network Training & Evaluation Visualizations - Mohammed Saad Alshutwi.pdf/ # Report
 
 ├── README.md # Project overview and documentation
 
